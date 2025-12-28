@@ -1,69 +1,90 @@
-<h3 align="center">Hi, I'm Benjamin 👋</h3>
-<br />
-<p align="left">
-    Hi, I'm Benjamin, a 21 yo Fourth-year Postgraduate student at @Epitech !
-    <br />
-    I'm also currently in a double master degree (MSc Networks & Security) at University of Kent in UK !
-    <br />
-    💻 I enjoy mostly Sys-Admin, Security stuff and Programming (as long as it's not C ofc)
-    <br />
-    🔬 I'm enjoy working on project using mostly Riot API, building things for friends & school.
-    <br />
-    📚 I’m also Co-founder & DevOps Lead on multiple projects/company 🕵️‍♂️</a>
-    <br />
-    📫 How to reach me: <a href="mailto: contact@arkrant.us">contact@arkrant.us</a>
-</p>
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<hr />
-<h2 align="center">Software Languages</h2>
-<p align="left">
-    <a href="https://github.com/0xArKrant"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /></a>
-    <a href="https://github.com/0xArKrant"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>
-    <a href="https://github.com/0xArKrant"><img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" /></a>
-    <a href="https://github.com/0xArKrant"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
-    <a href="https://github.com/0xArKrant"><img src="https://img.shields.io/badge/HASKELL-4a5057.svg?style=for-the-badge&logo=HASKELL&logoColor=4a5057&labelColor=ffffff" /></a>
-</p>
-<h2 align="center">Web Languages</h2>
-<p align="left">
-    <a href="https://github.com/0xArKrant"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
-    <a href="https://github.com/0xArKrant"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
-    <a href="https://github.com/0xArKrant"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /></a>
-    <a href="https://github.com/0xArKrant"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
-    <a href="https://github.com/0xArKrant"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
-</p>
-<h2 align="center">Web Frameworks</h2>
-<p align="left">
-    <a href="https://github.com/0xArKrant"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /></a>
-    <a href="https://github.com/0xArKrant"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
-    <a href="https://github.com/0xArKrant"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /></a>
-    <a href="https://github.com/0xArKrant"><img src="https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown" /></a>
-    <a href="https://github.com/0xArKrant"><img src="https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red" /></a>
-</p>
-<h2 align="center">DevOps & Stack</h2>
-<p align="left">
-    <a href="https://github.com/0xArKrant"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
-    <a href="https://github.com/0xArKrant"><img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" /></a>
-    <a href="https://github.com/0xArKrant"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" /></a>
-    <a href="https://github.com/0xArKrant"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" /></a>
-</p>
-<h2 align="center">Prototyping</h2>
-<p align="left">
-    <a href="https://github.com/0xArKrant"><img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" /></a>
-    <a href="https://github.com/0xArKrant"><img src="https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white" /></a>
-    <a href="https://github.com/0xArKrant"><img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" /></a>
-</p>
-<h2 align="center">Others</h2>
-<p align="left">
-    <a href="https://github.com/0xArKrant"><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" /></a>
-    <a href="https://github.com/0xArKrant"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /></a>
-    <a href="https://github.com/0xArKrant"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></a>
-    <a href="https://github.com/0xArKrant"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /></a>
-    <a href="https://github.com/0xArKrant"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-    <a href="https://github.com/0xArKrant"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" /></a>
-    <a href="https://github.com/0xArKrant"><img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white" /></a>
-</p>
-<hr />
-<a href="https://github.com/0xArKrant" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=0xArKrant&count_private=true&show_icons=true&theme=tokyonight" /></a>
-<hr />
-<p align="center">⭐️ From <a href="https://github.com/0xArKrant/">0xArKrant</a></p>
-<p align="center"><img src="https://profile-counter.glitch.me/{0xArKrant}/count.svg" alt="0xArKrant :: Visitor's Count" /></p>
+###
+
+<p align="left">Hi, I'm Benjamin, a 24yo L3 Infrastructure Engineer for a Luxembourgish Bank. 🇱🇺 <br>I hold an MSc in Networks & Security (with Excellence) from @UniKent 🇬🇧 & an Expert in Information Technology degree from @Epitech 🇫🇷</p>
+
+###
+
+<p align="left">Daily activities : <br> • Maintain the hosting infrastructures - virtualization, storage and backup (2 data centers, multiple infra/technologies, +100 Hypervisors) <br> • Maintain the Linux/Unix ecosystem (+1500 virtual servers) <br> • Maintain the IBM Websphere MQ platform (+40 Queue Managers, +10m/day messages)<br> • Standardize and automate operations <br> • Build applications/interface for management<br> • L3 support</p>
+
+###
+
+<div align="center">
+  <a href="https://twitch.tv/arkrant" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitch logo"  />
+  </a>
+  <a href="https://x.com/letsjxstleave" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo"  />
+  </a>
+  <a href="https://instagram.com/0xarkrant" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+  </a>
+  <a href="contact@arkrant.us" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="microsoft-outlook logo"  />
+  </a>
+</div>
+
+###
+
+<h2 align="left">I work with tech like</h2>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=black&style=for-the-badge" height="40" alt="cloudflare logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonwebservices&logoColor=FF9900&style=for-the-badge" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white&style=for-the-badge" height="40" alt="prometheus logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=black&style=for-the-badge" height="40" alt="grafana logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white&style=for-the-badge" height="40" alt="ansible logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Red Hat-EE0000?logo=redhat&logoColor=white&style=for-the-badge" height="40" alt="redhat logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" height="40" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="40" alt="tailwindcss logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/0xArKrant/0xArKrant/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/21uml2ju2jx6hxltxask4ltva">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21uml2ju2jx6hxltxask4ltva&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=0xArKrant.0xArKrant&"  />
+</div>
+
+###
